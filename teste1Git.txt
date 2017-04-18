@@ -1,6 +1,5 @@
 teste
-d
-samuell
-par
-Git
-Hub
+de
+samuel
+para
+Git Hub
